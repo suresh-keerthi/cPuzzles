@@ -1,3 +1,5 @@
+claude
+
 # 150 Days of C: Low-Level Puzzles for a Python Programmer
 
 One puzzle a day, covering language-level C, systems concepts, and capstone projects.
