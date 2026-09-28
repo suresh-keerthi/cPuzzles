@@ -1,3 +1,5 @@
+meta
+
 # 150 Daily C Low-Level Puzzles for a Python Dev
 
 > Keep your pointers sharp while coding Python daily. Each puzzle is 20-45 min, no Python stdlib allowed. Focus: raw memory, syscalls, concurrency.
