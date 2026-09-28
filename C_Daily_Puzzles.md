@@ -1,3 +1,4 @@
+deepseek
 # 150 Days of Low-Level C
 
 A daily puzzle series to keep your systems knowledge sharp while you live in Python.
